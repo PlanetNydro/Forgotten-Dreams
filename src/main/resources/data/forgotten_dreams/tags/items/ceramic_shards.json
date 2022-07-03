@@ -1,0 +1,22 @@
+
+  {
+    "replace": false,
+    "values": [
+        "forgotten_dreams:red_ceramic_shard",
+        "forgotten_dreams:green_ceramic_shard",
+        "forgotten_dreams:purple_ceramic_shard",
+        "forgotten_dreams:cyan_ceramic_shard",
+        "forgotten_dreams:light_gray_ceramic_shard",
+        "forgotten_dreams:gray_ceramic_shard",
+        "forgotten_dreams:pink_ceramic_shard",
+        "forgotten_dreams:lime_ceramic_shard",
+        "forgotten_dreams:yellow_ceramic_shard",
+        "forgotten_dreams:light_blue_ceramic_shard",
+        "forgotten_dreams:orange_ceramic_shard",
+        "forgotten_dreams:magenta_ceramic_shard",
+        "forgotten_dreams:blue_ceramic_shard",
+        "forgotten_dreams:black_ceramic_shard",
+        "forgotten_dreams:brown_ceramic_shard",
+        "forgotten_dreams:white_ceramic_shard"
+    ]
+  }

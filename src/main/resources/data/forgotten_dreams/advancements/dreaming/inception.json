@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:white_bed"
+      },
+      "title": {
+        "translate": "advancements.dreaming.inception.title"
+      },
+      "description": {
+        "translate": "advancements.dreaming.inception.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "forgotten_dreams:dreaming/root",
+    "criteria": {
+      "slept_in_bed": {
+        "trigger": "minecraft:slept_in_bed",
+        "conditions": {
+          "location": {
+            "dimension": "forgotten_dreams:skyworld"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "slept_in_bed"
+      ]
+    ]
+  }

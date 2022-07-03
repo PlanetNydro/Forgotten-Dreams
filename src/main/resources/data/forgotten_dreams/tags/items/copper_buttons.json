@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "forgotten_dreams:copper_button",
+      "forgotten_dreams:exposed_copper_button",
+      "forgotten_dreams:weathered_copper_button",
+      "forgotten_dreams:oxidized_copper_button"
+    ]
+  }

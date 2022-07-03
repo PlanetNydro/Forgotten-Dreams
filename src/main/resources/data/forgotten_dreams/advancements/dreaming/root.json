@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:red_bed"
+      },
+      "title": {
+        "translate": "advancements.dreaming.root.title"
+      },
+      "description": {
+        "translate": "advancements.dreaming.root.description"
+      },
+      "background": "forgotten_dreams:textures/painting/water_cubes.png",
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "enter_skyworld": {
+        "trigger": "minecraft:changed_dimension",
+        "conditions": {
+          "from": "minecraft:overworld",
+          "to": "forgotten_dreams:skyworld"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "enter_skyworld"
+      ]
+    ]
+  }

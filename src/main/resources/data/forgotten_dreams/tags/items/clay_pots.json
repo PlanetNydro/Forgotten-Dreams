@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+      "forgotten_dreams:raw_clay_pot",
+      "forgotten_dreams:clay_pot",
+      "forgotten_dreams:rebuilt_pot",
+      "forgotten_dreams:red_clay_pot",
+      "forgotten_dreams:green_clay_pot",
+      "forgotten_dreams:purple_clay_pot",
+      "forgotten_dreams:cyan_clay_pot",
+      "forgotten_dreams:light_gray_clay_pot",
+      "forgotten_dreams:gray_clay_pot",
+      "forgotten_dreams:pink_clay_pot",
+      "forgotten_dreams:lime_clay_pot",
+      "forgotten_dreams:yellow_clay_pot",
+      "forgotten_dreams:blue_clay_pot",
+      "forgotten_dreams:light_blue_clay_pot",
+      "forgotten_dreams:magenta_clay_pot",
+      "forgotten_dreams:orange_clay_pot",
+      "forgotten_dreams:brown_clay_pot",
+      "forgotten_dreams:white_clay_pot",
+      "forgotten_dreams:black_clay_pot"
+    ]
+}
