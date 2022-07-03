@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "forgotten_dreams:ruby_block",
+    "#forgotten_dreams:ruby_ores",
+    "forgotten_dreams:charcoal_block",
+    "#forgotten_dreams:pink_iron_ores",
+    "forgotten_dreams:raw_pink_iron_block",
+    "forgotten_dreams:pink_iron_block",
+    "forgotten_dreams:netherite_stairs",
+    "forgotten_dreams:sandstone_tiles",
+    "forgotten_dreams:dust_devil_sandstone",
+    "#forgotten_dreams:petrified_slabs",
+    "forgotten_dreams:glowing_obsidian",
+    
+    
+    "forgotten_dreams:usb_block",
+    "forgotten_dreams:cursor",
+    "forgotten_dreams:reactor_core",
+    "#forgotten_dreams:copper_buttons",
+    "#forgotten_dreams:clay_pots"
+  ]
+}

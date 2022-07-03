@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "forgotten_dreams:nightmare_wall_sign",
+    "forgotten_dreams:blossom_wall_sign",
+    "forgotten_dreams:palm_wall_sign",
+    "forgotten_dreams:baobab_wall_sign",
+    "forgotten_dreams:iron_wall_sign"
+  ]
+}

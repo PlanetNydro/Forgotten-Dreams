@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forgotten_dreams:pink_iron_ores",
+    "forgotten_dreams:pink_iron_block",
+    "forgotten_dreams:raw_pink_iron_block",
+    "forgotten_dreams:usb_block",
+    "#forgotten_dreams:copper_buttons"
+  ]
+}
