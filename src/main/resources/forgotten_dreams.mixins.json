@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.nydro.forgotten.dreams.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "ExampleMixin",
+    "SignTypeAccessor",
+    "BlockEntityTypeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

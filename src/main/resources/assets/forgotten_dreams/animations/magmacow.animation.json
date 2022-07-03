@@ -1,0 +1,55 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.magmacow.idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"position": {
+						"vector": [0, "math.sin(query.anim_time*45)*0.3", 0]
+					}
+				},
+				"head": {
+					"position": {
+						"vector": [0, "math.sin(query.anim_time*45)*0.3", 0]
+					}
+				}
+			}
+		},
+		"animation.magmacow.walk": {
+			"loop": true,
+			"bones": {
+				"leg0": {
+					"rotation": {
+						"vector": ["-20+Math.cos(query.anim_time*38)*20.0", 0, 0]
+					}
+				},
+				"leg1": {
+					"rotation": {
+						"vector": ["20+Math.cos(query.anim_time*38)*-20.0", 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": ["20+Math.cos(query.anim_time*38)*-20.0", 0, 0]
+					}
+				},
+				"leg3": {
+					"rotation": {
+						"vector": ["-20+Math.cos(query.anim_time*38)*20.0", 0, 0]
+					}
+				},
+				"body": {
+					"position": {
+						"vector": [0, "math.sin(query.anim_time*45)*0.3", 0]
+					}
+				},
+				"head": {
+					"position": {
+						"vector": [0, "math.sin(query.anim_time*45)*0.3", 0]
+					}
+				}
+			}
+		}
+	}
+}
