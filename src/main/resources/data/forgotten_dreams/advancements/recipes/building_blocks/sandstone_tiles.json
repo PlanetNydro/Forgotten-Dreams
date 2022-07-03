@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "forgotten_dreams:sandstone_tiles"
+    ]
+  },
+  "criteria": {
+    "has_smooth_sandstone_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:smooth_sandstone_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "forgotten_dreams:sandstone_tiles"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_smooth_sandstone_slab",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "forgotten_dreams:ruby_block"
+    ]
+  },
+  "criteria": {
+    "has_ruby": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "forgotten_dreams:ruby"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "forgotten_dreams:ruby_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ruby",
+      "has_the_recipe"
+    ]
+  ]
+}
